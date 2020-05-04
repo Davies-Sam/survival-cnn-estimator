@@ -1,3 +1,6 @@
+# A guided project for the UMass Lowell COMP 4600 Course
+Forked from: https://github.com/sebp/survival-cnn-estimator
+
 # Survival Analysis for Deep Learning
 
 This is a [tutorial on survival analysis](https://k-d-w.org/blog/2019/07/survival-analysis-for-deep-learning/), also referred to as time-to-event analysis or reliability analysis. You will learn how to train a convolutional neural network to predict time to a (generated) event from MNIST images, using a loss function specific to survival analysis.
