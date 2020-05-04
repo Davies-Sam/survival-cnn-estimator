@@ -1,4 +1,4 @@
-# A guided project for the UMass Lowell COMP 4600 Course
+# UMass Lowell COMP 4600 Guided Project
 Forked from: https://github.com/sebp/survival-cnn-estimator
 
 # Survival Analysis for Deep Learning
