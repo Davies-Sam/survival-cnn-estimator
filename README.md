@@ -1,4 +1,6 @@
 # UMass Lowell COMP 4600 Guided Project
+A guided project that teaches how to train and evaluate a convolutional neural network for survival analysis.
+
 Forked from: https://github.com/sebp/survival-cnn-estimator
 
 ## Execution Instructions
